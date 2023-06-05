@@ -26,6 +26,3 @@ Portfolio: https://raz001.github.io/
 
 Email: razbhagat1@gmsil.com
 
-
-Languages and Tools:
-babel cypress git html5 javascript mongodb nodejs react redux
