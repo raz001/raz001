@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning MERN stack web development.
+
+💬 Ask me about HTML, CSS, JavaScript, React.js , Node.js etc
+
+Connect with me:
+linkedin:https://www.linkedin.com/in/prachi-tiwari-1317b4240/
+
+Portfolio: Prachi_Tiwari
+
+Email: prachitiwari0911@gmail.com
+
+
+Languages and Tools:
+babel cypress git html5 javascript mongodb nodejs postman react redux typescript
