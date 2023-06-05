@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 💬 Ask me about HTML, CSS, JavaScript, React.js , Node.js etc
 
 Connect with me:
-linkedin:https://www.linkedin.com/in/prachi-tiwari-1317b4240/
+linkedin:https://www.linkedin.com/in/raz-bhagat-0b863922a/
 
-Portfolio: Prachi_Tiwari
+Portfolio: https://raz001.github.io/
 
-Email: prachitiwari0911@gmail.com
+Email: razbhagat1@gmsil.com
 
 
 Languages and Tools:
-babel cypress git html5 javascript mongodb nodejs postman react redux typescript
+babel cypress git html5 javascript mongodb nodejs react redux
