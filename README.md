@@ -59,20 +59,20 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ravindra121q&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=raz001&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="ravindra121q" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravindra121q&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raz001&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindra121q&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ravindra121q" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raz001&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="raz001" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Ravindra](https://github.com/ravindra121q)
+[Raz](https://github.com/raz001)
