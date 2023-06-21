@@ -17,7 +17,7 @@
 
 - 📫 How to reach me *razbhagat1@gmail.com*
 
-- :boom: You can visit [raz001.github.io](https://raz001.github.io/).
+- :boom: You can visit [portfolio](https://raz001.github.io/).
 
 <br>
 
