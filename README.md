@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Raz</h1>
 <!-- <h3 align="center">Student at Masai School, Bangalore🌟.</h3> -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Github+Profile+Page..&hearts;++;Love+to+learn+new+stuffs.."></a>
-</p>	
+</p>	 -->
 <br>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=raz001&label=Profile%20views&color=0e75b6&style=flat"
     alt="Raz" /> 
@@ -40,8 +40,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" />  </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40"  border-radius="50%" /> <a href="https://chakra-ui.com/" target="_blank"
-    rel="noreferrer"> </p>
+      alt="react" width="40" height="40"  border-radius="50%" />  </p>
 
 <br>
 
@@ -60,5 +59,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raz001&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="raz001" /></p>
 
-  
-[Raz](https://github.com/raz001)
