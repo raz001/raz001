@@ -40,7 +40,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" />  </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40"  border-radius="50%" /> <img
+      alt="react" width="40" height="40"  border-radius="50%" /></a> <img
       src="https://tse1.mm.bing.net/th?id=OIP.fFX2gafo9PEYiCkimNnwXAHaG6&pid=Api&rs=1&c=1&qlt=95&h=180"
       alt="redux" width="40" height="40"  border-radius="50%" /> <img
       src="http://3.bp.blogspot.com/-4IzIZH_Y1xg/VVFl3KLHpnI/AAAAAAAAJhE/oA7Tt8YRzO0/s1600/node_Express.png"
